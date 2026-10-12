@@ -1,46 +1,62 @@
 {
   "name": "Pigeva媒体库封面",
-  "description": "由 MediaCoverGenerator 生成 | 更新时间：2026-10-12 20:37",
+  "description": "透明文字图标 | 更新时间：2026-10-13",
   "icons": [
     {
-      "name": "纪录片",
-      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/jilupian.png"
+      "name": "外语电影",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/foreign-films.png"
     },
     {
-      "name": "欧美电影",
-      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/oumeidianying.png"
+      "name": "华语电影",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/chinese-films.png"
     },
     {
-      "name": "欧美剧",
-      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/oumeiju.png"
+      "name": "动画电影",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/animation.png"
     },
     {
-      "name": "欧美漫",
-      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/oumeiman.png"
+      "name": "X-film",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/x-film.png"
     },
     {
-      "name": "日番",
-      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/rifan.png"
-    },
-    {
-      "name": "日韩电影",
-      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/rihandianying.png"
+      "name": "18+电影",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/adult-18.png"
     },
     {
       "name": "日韩剧",
-      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/rihanju.png"
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/asian-dramas.png"
     },
     {
-      "name": "原盘影片",
-      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/yuanpan.png"
+      "name": "国漫",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/chinese-animation.png"
     },
     {
-      "name": "综艺",
-      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/zongyi.png"
+      "name": "Kids",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/kids.png"
     },
     {
-      "name": "X-Film",
-      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/x-film.png"
+      "name": "短剧",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/short-dramas.png"
+    },
+    {
+      "name": "国产剧",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/chinese-dramas.png"
+    },
+    {
+      "name": "综艺/纪录",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/variety-doc.png"
+    },
+    {
+      "name": "欧美剧",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/western-dramas.png"
+    },
+    {
+      "name": "美漫/日番",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/anime-cartoons.png"
+    },
+    {
+      "name": "Music",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/music.png"
     }
   ]
 }
