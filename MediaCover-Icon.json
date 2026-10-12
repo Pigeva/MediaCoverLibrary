@@ -1,0 +1,46 @@
+{
+  "name": "Pigeva媒体库封面",
+  "description": "由 MediaCoverGenerator 生成 | 更新时间：2026-10-12 20:37",
+  "icons": [
+    {
+      "name": "纪录片",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/jilupian.png"
+    },
+    {
+      "name": "欧美电影",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/oumeidianying.png"
+    },
+    {
+      "name": "欧美剧",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/oumeiju.png"
+    },
+    {
+      "name": "欧美漫",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/oumeiman.png"
+    },
+    {
+      "name": "日番",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/rifan.png"
+    },
+    {
+      "name": "日韩电影",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/rihandianying.png"
+    },
+    {
+      "name": "日韩剧",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/rihanju.png"
+    },
+    {
+      "name": "原盘影片",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/yuanpan.png"
+    },
+    {
+      "name": "综艺",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/zongyi.png"
+    },
+    {
+      "name": "X-Film",
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/x-film.png"
+    }
+  ]
+}
