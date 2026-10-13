@@ -1,18 +1,18 @@
 {
   "name": "Pigeva媒体库封面",
-  "description": "透明文字图标 | 更新时间：2026-10-13",
+  "description": "透明文字图标(大字版 v2 已入库) | 更新时间：2026-10-13",
   "icons": [
     {
       "name": "外语电影",
-      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/foreign-films.png"
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/foreign-films-v2.png"
     },
     {
       "name": "华语电影",
-      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/chinese-films.png"
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/chinese-films-v2.png"
     },
     {
       "name": "动画电影",
-      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/animation.png"
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/animation-v2.png"
     },
     {
       "name": "X-film",
@@ -20,7 +20,7 @@
     },
     {
       "name": "18+电影",
-      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/adult-18.png"
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/adult-18-v2.png"
     },
     {
       "name": "日韩剧",
@@ -44,7 +44,7 @@
     },
     {
       "name": "综艺/纪录",
-      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/variety-doc.png"
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/variety-doc-v2.png"
     },
     {
       "name": "欧美剧",
@@ -52,7 +52,7 @@
     },
     {
       "name": "美漫/日番",
-      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/anime-cartoons.png"
+      "url": "https://raw.githubusercontent.com/Pigeva/MediaCoverLibrary/main/covers/anime-cartoons-v2.png"
     },
     {
       "name": "Music",
